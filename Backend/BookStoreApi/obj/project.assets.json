@@ -899,19 +899,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\": {}
+    "C:\\Users\\Dhruvik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreApi\\BookStoreApi.csproj",
+      "projectUniqueName": "C:\\Users\\Dhruvik\\OneDrive\\Desktop\\Book-E-Sell\\Backend\\BookStoreApi\\BookStoreApi.csproj",
       "projectName": "BookStoreApi",
-      "projectPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreApi\\BookStoreApi.csproj",
-      "packagesPath": "C:\\Users\\Devarshi Trivedi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreApi\\obj\\",
+      "projectPath": "C:\\Users\\Dhruvik\\OneDrive\\Desktop\\Book-E-Sell\\Backend\\BookStoreApi\\BookStoreApi.csproj",
+      "packagesPath": "C:\\Users\\Dhruvik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dhruvik\\OneDrive\\Desktop\\Book-E-Sell\\Backend\\BookStoreApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Devarshi Trivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Dhruvik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -925,11 +925,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj": {
-              "projectPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreModels\\BookStoreModels.csproj"
+            "C:\\Users\\Dhruvik\\OneDrive\\Desktop\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj": {
+              "projectPath": "C:\\Users\\Dhruvik\\OneDrive\\Desktop\\Book-E-Sell\\Backend\\BookStoreModels\\BookStoreModels.csproj"
             },
-            "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\BookStoreRepository.csproj": {
-              "projectPath": "C:\\Users\\Devarshi Trivedi\\Desktop\\TatvaSoft\\Backend\\BookStoreRepository\\BookStoreRepository.csproj"
+            "C:\\Users\\Dhruvik\\OneDrive\\Desktop\\Book-E-Sell\\Backend\\BookStoreRepository\\BookStoreRepository.csproj": {
+              "projectPath": "C:\\Users\\Dhruvik\\OneDrive\\Desktop\\Book-E-Sell\\Backend\\BookStoreRepository\\BookStoreRepository.csproj"
             }
           }
         }
@@ -967,7 +967,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
